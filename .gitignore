@@ -1,0 +1,5 @@
+# Ignore IDE settings file
+.vscode
+
+# Ignore dependecies directories
+node_modules
