@@ -9,5 +9,8 @@
   "scripts": {
     "lint": "npx eslint app/**/*.js",
     "start": "node .\\app\\app.js"
+  },
+  "engines": {
+    "node": "20.11"
   }
 }
